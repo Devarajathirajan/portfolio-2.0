@@ -9,6 +9,7 @@ header > h1 {
   text-align: center;
   text-shadow: 2px -2px 1px black;
   margin-bottom: 1vh;
+  padding: 100px 0px;
 }
 
 .projects__name {

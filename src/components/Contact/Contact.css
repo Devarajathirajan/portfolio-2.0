@@ -94,6 +94,11 @@
   font-size: 20px;
   color: rgba(255, 255, 255, 0.2);
 }
+a {
+  text-decoration: none;
+  color: #ffffff8f;
+  font-weight: bold;
+}
 
 @media (min-width: 768px) and (max-width: 1024px){
     .Contact>header{

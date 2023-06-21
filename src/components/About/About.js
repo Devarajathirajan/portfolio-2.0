@@ -12,17 +12,13 @@ export const About = () => {
         <div className="about__paragraph">
           <h1>About ME</h1>
           <div>
-            Hi! I am <span>HariPrasath</span>, a front end developer focused on
-            crafting great web experiences. I enjoy creating beautifully
-            designed, intuitive and functional websites. I'm a hard working and
-            dedicated professional front end developer user interface designer
-            with a keen eye for detail, and a determination to deliver the very
-            highest quality. I am motivated, enthusiastic and well organized,
-            primarily based around user interfaces.I am Good in HTML5 , CSS3 ,
-            JavaScript , React.js , C++ and Firebase .
+            Hi! I am <span>Devarajathirajan S</span>. I am a Native Andorid Developer using Kotlin.
+            I am good at both XML views and Jetpack compose toolkit.  I have good knowledge in modern
+            concepts used like MVVM pattern, app architecture. I have good understanding on REST API integration,
+            Firebase services, JetpackCompose, Web sockets, Clean Architecture, Kotlin Coroutines etc...
           </div>
           <a
-            href="https://drive.google.com/file/d/1_aLxHcVnSu45msA76Co0jcQCgUF8kGUO/view"
+            href="https://drive.google.com/file/d/1ulF2ilqfCa-vPCCN-I7Y3mXzW7-V-X9E/view?usp=sharing"
             target="_blank"
           >
             Resume

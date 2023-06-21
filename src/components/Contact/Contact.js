@@ -16,7 +16,7 @@ export const Contact = () => {
       <header>GET IN TOUCH</header>
       <div className="contact__email">
         <p>[ Put Your E-mail to Action ]</p>
-        <a href="mailto:hari17prasathb@gmail.com">Call To Action</a>
+        <a href="mailto:gokulrajan01234@gmail.com">Call To Action</a>
       </div>
       <footer>
         <div className="footer__container">
@@ -26,27 +26,18 @@ export const Contact = () => {
             />
           </div>
           <div className="contact__socialMedia">
-            <a className="github" href="https://github.com/haristunner">
+            <a className="github" href="https://github.com/devarajathirajan">
               <GitHubIcon style={{ color: "#e1e1e1" }} />
             </a>
             <a
-              className="instagram"
-              href="https://www.instagram.com/hari_stunner_/"
-            >
-              <InstagramIcon style={{ color: "#e1e1e1" }} />
-            </a>
-            <a
               className="linkedIn"
-              href="https://www.linkedin.com/in/hari-prasath-b-6a005623a"
+              href="https://www.linkedin.com/in/devarajathirajan02/"
             >
               <LinkedInIcon style={{ color: "#e1e1e1" }} />
             </a>
-            <a className="twitter" href="https://twitter.com/Stunhari10/">
-              <TwitterIcon style={{ color: "#e1e1e1" }} />
-            </a>
           </div>
           <div className="contact__line"></div>
-          <div className="credits">© 2023 - Hari Prasath</div>
+          <div className="credits">© 2023 created from <a href="https://github.com/haristunner/portfolio-2.0">Hari Prasath</a> </div>
         </div>
       </footer>
     </div>
